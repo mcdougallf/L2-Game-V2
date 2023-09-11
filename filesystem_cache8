@@ -1,0 +1,36 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1694418242
+main_level.tscn::PackedScene::8498151813093735423::1694341362::0::1::::<><>::uid://c7vhyvi4ikx0g::::res://Tiny Tower FREE.png<>uid://c1grbq4kevvfh::::res://main_player/main_player.tscn
+Tiny Tower FREE.png::CompressedTexture2D::7062705291319103268::1685314484::1693621133::1::::<><>::
+::res://main_player/::1694341331
+main_player.gd::GDScript::-1::1694341331::0::1::::<>CharacterBody2D<>::
+main_player.tscn::PackedScene::6611172428803817325::1694341315::0::1::::<><>::res://main_player/main_player.gd<>uid://d1634ptey452y::::res://main_player/Character/Idle/Idle-Sheet.png<>uid://u1eg3y2g53io::::res://main_player/Character/Jump-End/Jump-End-Sheet.png<>uid://cv6wnsy80agov::::res://main_player/Character/Jump-Start/Jump-Start-Sheet.png<>uid://bdnhjpmia1ba2::::res://main_player/Character/Jumlp-All/Jump-All-Sheet.png<>uid://k6r4g0fylo3y::::res://main_player/Character/Run/Run-Sheet.png
+::res://main_player/Character/::1694317582
+::res://main_player/Character/Attack-01/::1694317581
+Attack-01-Sheet.png::CompressedTexture2D::7378602151301078146::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Dead/::1694317581
+Dead-Sheet.png::CompressedTexture2D::4021024993270744267::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Idle/::1694317581
+Idle-Sheet.png::CompressedTexture2D::9049920377281226446::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Jumlp-All/::1694317581
+Jump-All-Sheet.png::CompressedTexture2D::2624266023256896239::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Jump/::1694317581
+::res://main_player/Character/Jump-End/::1694317582
+Jump-End-Sheet.png::CompressedTexture2D::1457705786065793342::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Jump-Start/::1694317582
+Jump-Start-Sheet.png::CompressedTexture2D::6312162767350754489::1694072514::1694072514::1::::<><>::
+::res://main_player/Character/Run/::1694317582
+Run-Sheet.png::CompressedTexture2D::766968477676358720::1694072514::1694072514::1::::<><>::
+::res://main_player/Knight_1/::1694317582
+Attack 1.png::CompressedTexture2D::8982399504928179838::1693619454::1693619454::1::::<><>::
+Attack 2.png::CompressedTexture2D::1539336674797356896::1693619454::1693619454::1::::<><>::
+Attack 3.png::CompressedTexture2D::8100080516863413557::1693619454::1693619454::1::::<><>::
+Dead.png::CompressedTexture2D::4550579196769282205::1693619454::1693619454::1::::<><>::
+Defend.png::CompressedTexture2D::2550903502103698518::1693619454::1693619454::1::::<><>::
+Hurt.png::CompressedTexture2D::7892473212063870681::1693619454::1693619454::1::::<><>::
+Idle.png::CompressedTexture2D::6153465860672453189::1693619454::1693619506::1::::<><>::
+Jump.png::CompressedTexture2D::1840674245863849711::1693619454::1693619454::1::::<><>::
+Protect.png::CompressedTexture2D::1258488667057010039::1693619454::1693619454::1::::<><>::
+Run+Attack.png::CompressedTexture2D::6532225693278020610::1693619454::1693619454::1::::<><>::
+Run.png::CompressedTexture2D::4562095614205156368::1693619454::1693619454::1::::<><>::
+Walk.png::CompressedTexture2D::4780895500745997330::1693619454::1693619454::1::::<><>::
